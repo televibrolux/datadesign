@@ -33,5 +33,12 @@
 			by entering a name or event into the search bar. The User can also perform this task. I say typically because one can
 			also select videos to watch that are trending and the videos that have gone viral. Those videos are featured on their
 			opening page</p>
+
+			<title>Relations</title>
+
+			<p>The user is broken down into two components, the user who uploads videos and the viewer who views and comments on the videos.
+			The user and the view are the sons of the User. The user uploads the video on any number of catagories the viewer wishes.The view can
+			either search for a viedo, go to catagories the interest the viewer or the view can enjoy videos that are trending. The viewer has the
+			option of commenting on the video expressing their feelings towards the video. A view can also like the video as well as the user.</p>
 	</body>
 	</html>
