@@ -33,13 +33,5 @@
 			by entering a name or event into the search bar. The User can also perform this task. I say typically because one can
 			also select videos to watch that are trending and the videos that have gone viral. Those videos are featured on their
 			opening page</p>
-			<head>Relations</head>
-
-			<P>The User:</P>
-			<p> The User can post videos on YouTube that adhere to YouTube guidelines.</p>
-			<p>
-
-			</p>
-
 	</body>
 	</html>
